@@ -1,6 +1,16 @@
 # challenge-api-rest-node
 
 ## Documentation
+
+## HOW TO INSTALL
+
+``` javascript
+$: git clone https://github.com/Ubiwhere/challenge-api-rest-node.git
+$: npm install
+$: node index.js
+```
+
+
 Assuming that the API will run on http://localhost:8080/api/
 ### Users
 
